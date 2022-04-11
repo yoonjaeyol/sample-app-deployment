@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://github.com/yoonjaeyol/sampel-app-deployment
+  url: https://github.com/yoonjaeyol/sample-app-deployment
 
